@@ -27,6 +27,7 @@ def OpenCaseFile(filename):
             line = line.strip()
             ReadWarna(line, KoorWarna, row)
             row += 1
+    f.close()
     return KoorWarna
 
 def check_Row_and_Col(RowWarna, ColWarna):
@@ -145,6 +146,7 @@ def getSolvedLines(Col_Queen, filename):
                 col += 1
             baris_solve.append(string_baris)
             row += 1
+    f.close()
     return baris_solve
 
 
@@ -173,6 +175,7 @@ def printResult(Final_Result, filename):
                 for baris in solution:
                     f.write(baris + "\n")
                 num += 1
+        f.close()
         
 
 
