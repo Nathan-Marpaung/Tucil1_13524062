@@ -1,0 +1,84 @@
+Solusi ke - 1 : 
+#AAAA
+BB#BB
+CCCC#
+D#DDD
+EEE#E
+Solusi ke - 2 : 
+#AAAA
+BBB#B
+C#CCC
+DDDD#
+EE#EE
+Solusi ke - 3 : 
+A#AAA
+BBB#B
+#CCCC
+DD#DD
+EEEE#
+Solusi ke - 4 : 
+A#AAA
+BBB#B
+#CCCC
+DDDD#
+EE#EE
+Solusi ke - 5 : 
+A#AAA
+BBBB#
+CC#CC
+#DDDD
+EEE#E
+Solusi ke - 6 : 
+AA#AA
+#BBBB
+CCC#C
+D#DDD
+EEEE#
+Solusi ke - 7 : 
+AA#AA
+#BBBB
+CCCC#
+D#DDD
+EEE#E
+Solusi ke - 8 : 
+AA#AA
+BBBB#
+#CCCC
+DDD#D
+E#EEE
+Solusi ke - 9 : 
+AA#AA
+BBBB#
+C#CCC
+DDD#D
+#EEEE
+Solusi ke - 10 : 
+AAA#A
+#BBBB
+CC#CC
+DDDD#
+E#EEE
+Solusi ke - 11 : 
+AAA#A
+B#BBB
+CCCC#
+#DDDD
+EE#EE
+Solusi ke - 12 : 
+AAA#A
+B#BBB
+CCCC#
+DD#DD
+#EEEE
+Solusi ke - 13 : 
+AAAA#
+B#BBB
+CCC#C
+#DDDD
+EE#EE
+Solusi ke - 14 : 
+AAAA#
+BB#BB
+#CCCC
+DDD#D
+E#EEE
